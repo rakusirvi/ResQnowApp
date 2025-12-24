@@ -1,4 +1,4 @@
-<h2  align="center" >ResQnowApp</h2>
+## <h2  align="center" >ResQnowApp</h2>
 
 **A Hybrid Emergency Response System for Public Safety**  
 ---
