@@ -17,11 +17,11 @@ This system ensures fast, automated, and reliable emergency alerts for both smar
 ## Images
 
 ### Mobile App 
-![SOS Home Page](Assets/SOS_Home_Page.jpeg)
+<p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="300"/> </p>
 ### Dashboard 
-![Dashboard](assets/dashboard.png) 
+<p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="300"/> </p>
 ### IoT Device Prototype 
-![IoT Device](assets/iot_device.png)
+<p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="300"/> </p>
 
 ---
 
