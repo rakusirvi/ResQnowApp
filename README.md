@@ -19,7 +19,7 @@ This system ensures fast, automated, and reliable emergency alerts for both smar
 ### Mobile App 
 <p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="200"/> </p>
 ### Dashboard 
-<p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="200"/> </p>
+<p align="center"> <img src="Assets/SOS_Dashboard_Page.jpeg" alt="App Home Screen" width="200"/> </p>
 ### IoT Device Prototype 
 <p align="center"> <img src="Assets/SOS_Home_Page.jpeg" alt="App Home Screen" width="200"/> </p>
 
