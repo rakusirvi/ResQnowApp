@@ -17,7 +17,7 @@ This system ensures fast, automated, and reliable emergency alerts for both smar
 ## Images
 
 ### Mobile App 
-![App Home Screen](assets/app_home.png)
+![SOS Home Page](Assets/SOS_Home_Page.jpeg)
 ### Dashboard 
 ![Dashboard](assets/dashboard.png) 
 ### IoT Device Prototype 
